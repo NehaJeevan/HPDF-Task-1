@@ -14,4 +14,4 @@ To run the app locally -
   4. npm start
 
 By default, Main Timeline will be rendered.
-To render Search Results, go to index.js and change <HomePage /> to <SearchPage />
+To render Search Results, go to index.js and change "<HomePage />" to "<SearchPage />"
